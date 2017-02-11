@@ -8,9 +8,10 @@
     - Mentor availability
     - Roadmap information
     - Checkpoint information
+    - Show messages
+    - Create new messages
+    - Create submissions
+
 
 
 # Stay tuned for more features! 
-
-
-
