@@ -1,11 +1,16 @@
+
 ## Kele API
 
-
-> This api allows you to access data from the [Bloc.io](www.bloc.io) website.
+> A Ruby Gem API client to access data from [Bloc.io](www.bloc.io).
 
 - Currently Available Information:
-    - You can get an authorization token
-    - You can get a mentor's availability
+    - Authorization tokens
+    - Mentor availability
+    - Roadmap information
+    - Checkpoint information
 
 
 # Stay tuned for more features! 
+
+
+
